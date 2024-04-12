@@ -7,7 +7,7 @@
 def rectangle_area(length, width):
     return (length * width)
 
-length = float(input("What is the length of the rectangle?"))  # 80.0
+
 width = float(input("What is the width of the rectangle?"))
 
 area = rectangle_area(length, width)
